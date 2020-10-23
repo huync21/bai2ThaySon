@@ -50,7 +50,7 @@ public class bai15 {
             }
         });
         
-        
+        //in ra file SX.OUT
        output(students);
         
        //4.
